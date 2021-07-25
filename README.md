@@ -1,5 +1,6 @@
 # Movie Rental System Database
 
+ER Diagram - 
 ![image](https://user-images.githubusercontent.com/85562020/126903171-75e65fbe-a3e9-4da7-9042-7d77302cb518.png)
 
 
